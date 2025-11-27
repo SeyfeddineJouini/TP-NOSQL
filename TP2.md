@@ -1,6 +1,8 @@
 # MongoDB Guide
 ## Ce guide détaille différentes requêtes MongoDB pour explorer et interroger la base de données lesfilms.
 
+## Élaboré par : Seyfeddine Jouini
+
 ### 1. Vérifier l'importation des données
 #### Comptez le nombre de documents présents pour vous assurer que les données ont bien été importées.
 ![image](https://github.com/user-attachments/assets/dabfebba-ebec-40b4-b16a-d411bc42a332)
