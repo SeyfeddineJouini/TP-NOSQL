@@ -1,4 +1,4 @@
-# Élaboré par : Seyfeddine Jouini# 
+# Élaboré par : Seyfeddine Jouini
 ## MongoDB Guide
 
 ## Ce guide détaille différentes requêtes MongoDB pour explorer et interroger la base de données lesfilms.
