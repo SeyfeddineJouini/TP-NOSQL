@@ -1,6 +1,7 @@
 # TP-NOSQL
 Ce repo contient les différents comptes rendu des travaux pratiques du module NOSQL vu en 3ème ingénieurie en Informatique
-****TP 1 :****
+
+## TP 1 :
 
 **Partie Redis :**
 
@@ -10,7 +11,7 @@ TP1.pdf
 
 TP2.pdf => Pour 2ème partie : MONGODB
 
-****TP 2 :****
+## TP 2 :
 
 **Réplication avec MongoDB**
 
@@ -21,6 +22,7 @@ Vidéo 2 : https://www.youtube.com/watch?v=QhYyi1frKMc
 **Compte rendu :**
 
 TP 2 - Réplication avec MongoDB .pdf  => réplication avec MONGODB
+
 **Q&A**
 
 Q&A - Réplication avec MongoDB.pdf => une fiche de questions réponses à propos de la réplication 
