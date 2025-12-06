@@ -18,11 +18,13 @@ TP2.pdf => Pour 2ème partie : MONGODB
 **Supports du TP :** 
 
 Vidéo 1 : https://www.youtube.com/watch?v=ytCv2EX37Q8 
+
 Vidéo 2 : https://www.youtube.com/watch?v=QhYyi1frKMc 
+
 **Compte rendu :**
 
 TP 2 - Réplication avec MongoDB .pdf  => réplication avec MONGODB
 
-**Q&A**
+**Questions réponses :**
 
 Q&A - Réplication avec MongoDB.pdf => une fiche de questions réponses à propos de la réplication 
