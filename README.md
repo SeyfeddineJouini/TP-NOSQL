@@ -9,7 +9,7 @@ TP1.pdf
 
 **Partie Prise en mains de MongoDB :**
 
-TP2.pdf => Pour 2ème partie : MONGODB
+TP2.pdf => Prise en mains de MONGODB
 
 ## TP 2 :
 
