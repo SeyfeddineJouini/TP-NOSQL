@@ -5,7 +5,7 @@ Ce repo contient les différents comptes rendu des travaux pratiques du module N
 
 **Partie Redis :**
 
-TP1.pdf
+TP1 - partie 1.pdf
 
 **Partie Prise en mains de MongoDB :**
 
@@ -27,4 +27,4 @@ TP 2 - Réplication avec MongoDB .pdf  => réplication avec MONGODB
 
 **Questions réponses :**
 
-Q&A - Réplication avec MongoDB.pdf => une fiche de questions réponses à propos de la réplication 
+TP2 - Q&A - Réplication avec MongoDB.pdf => une fiche de questions réponses à propos de la réplication 
