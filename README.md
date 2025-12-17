@@ -28,3 +28,17 @@ TP 2 - Réplication avec MongoDB .pdf  => réplication avec MONGODB
 **Questions réponses :**
 
 TP2 - Q&A - Réplication avec MongoDB.pdf => une fiche de questions réponses à propos de la réplication 
+
+## TP 3 :
+
+**Compte rendu :**
+
+Tp3 – Exploration De Couch Db _ Sharding Mongo Db.pdf
+
+## TP 4 :
+
+**Compte rendu :**
+
+TP4– MapReduce avec MongoDB.pdf
+
+
